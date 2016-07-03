@@ -1,6 +1,6 @@
 {
   "name": "doghouse",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a scaffolder that builds a house for the dog(stack)",
   "main": "index.js",
   "scripts": {
