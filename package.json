@@ -19,5 +19,8 @@
     "npm-install-package": "^1.0.2",
     "rc": "^1.1.6",
     "xtend": "^4.0.1"
+  },
+  "bin": {
+    "doghouse": "./bin/cli.js"
   }
 }
