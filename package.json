@@ -1,0 +1,21 @@
+{
+  "name": "doghouse",
+  "version": "0.0.0",
+  "description": "",
+  "bin": {
+    "doghouse": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iainkirkpatrick",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^6.0.1",
+    "start-server-webpack-plugin": "^2.2.5",
+    "webpack": "^4.8.3",
+    "webpack-dev-server": "^3.1.4",
+    "webpack-node-externals": "^1.7.2",
+    "yargs": "^11.0.0"
+  }
+}
